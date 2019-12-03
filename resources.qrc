@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Main.qml</file>
+        <file>qml/pages/SplashPage.qml</file>
+        <file>qml/pages/HomePage.qml</file>
+        <file>img/app/icon_launcher.svg</file>
+        <file>img/app/logo.svg</file>
+        <file>img/app/logo_foreground.svg</file>
+        <file>qml/views/MemberListingView.qml</file>
+        <file>qml/views/MemberEditionView.qml</file>
+        <file>img/icons/delete.svg</file>
+        <file>img/icons/plus.svg</file>
+        <file>img/icons/account-off-outline.svg</file>
+        <file>img/icons/magnify.svg</file>
+        <file>qml/delegates/MemberDelegate.qml</file>
+        <file>img/icons/arrow-left.svg</file>
+        <file>img/icons/check.svg</file>
+        <file>qml/views/MemberDetailsView.qml</file>
+        <file>qml/listeners/MemberListingListener.qml</file>
+        <file>qml/delegates/ProjectDelegate.qml</file>
+        <file>qml/views/ProjectEditionView.qml</file>
+        <file>qml/views/MembersView.qml</file>
+        <file>qml/views/ProjectsView.qml</file>
+        <file>qml/views/ProjectListingView.qml</file>
+        <file>qml/views/ProjectDetailsView.qml</file>
+        <file>qml/listeners/ProjectListingListener.qml</file>
+        <file>img/icons/layers-off-outline.svg</file>
+        <file>qml/delegates/ProjectSelectableDelegate.qml</file>
+        <file>qml/delegates/MemberSelectableDelegate.qml</file>
+    </qresource>
+</RCC>
