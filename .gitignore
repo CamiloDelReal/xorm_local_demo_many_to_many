@@ -1,3 +1,7 @@
 # QtCreator files
 *.pro.user
 *_qmlcache.qrc
+
+# Visual Paradigm unnecessary files
+*.vpp.bak_*
+*.vpp.lck
