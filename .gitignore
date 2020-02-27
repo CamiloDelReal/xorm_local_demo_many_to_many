@@ -1,5 +1,5 @@
 # QtCreator files
-*.pro.user
+*.pro.user*
 *_qmlcache.qrc
 
 # Visual Paradigm unnecessary files
