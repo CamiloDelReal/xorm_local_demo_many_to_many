@@ -9,9 +9,9 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 
 #************  X Modules  *************************************************************************
-include($$PWD/../../libraries/x_material_controls/x_material_controls.pri)
-include($$PWD/../../libraries/x_orm/x_orm.pri)
-include($$PWD/../../libraries/x_utils/x_utils.pri)
+include($$PWD/../x_material_controls/x_material_controls.pri)
+include($$PWD/../x_orm/x_orm.pri)
+include($$PWD/../x_utils/x_utils.pri)
 
 
 #************  QML Configurations  ****************************************************************
